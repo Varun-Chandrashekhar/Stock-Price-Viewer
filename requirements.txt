@@ -6,3 +6,8 @@ streamlit==0.75.0
 matplotlib
 base64
 yfinance
+pyparsing>=2.0.3
+kiwisolver>=1.0.0
+dateutil>=2.1
+cycler>=0.10.0
+setuptools
